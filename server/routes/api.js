@@ -592,7 +592,7 @@ router.route('/messageSearch')
           qb.leftJoin('capcodes', 'capcodes.id', '=', 'messages.alias_id');
         }
         if (dbtype == 'sqlite3' && query != '') {
-          //This wraps the query with the wildcard symbol so SQLite searches for the string, regardless of any spaces
+          //This wraps the query with the wildcard symbol so SQLite searches for strings, rather than whole words
           query = '%' + query + '%'
           qb.whereRaw('messages_search_index.message LIKE ?', query)
           qb.orWhereRaw('messages_search_index.alias LIKE ?', query)
