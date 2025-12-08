@@ -68,25 +68,25 @@ The UI is built around a Node/Express/Angular/Bootstrap stack, while the client 
 ### Installing and Running the Server
 
 #### Installation
-Installation guide is available on the wiki - [Server Installation](https://github.com/bullseye555/pagermon/wiki/Server-Installation)
+Installation guide is available on the wiki - [Server Installation](https://github.com/pagermon/pagermon/wiki/Server-Installation)
 
 #### Running the Server
-Installation guide is available on the wiki - [Running Pagermon Server](https://github.com/bullseye555/pagermon/wiki/Running-Pagermon-Server)
+Installation guide is available on the wiki - [Running Pagermon Server](https://github.com/pagermon/pagermon/wiki/Running-Pagermon-Server)
 
 A production ready setup guide is available here, but several steps are out of date
 https://github.com/pagermon/pagermon/wiki/Tutorial---Production-Ready-Ubuntu,-PM2,-Nginx-Reverse-Proxy,-Let's-Encrypt-SSL,-Pagermon-server
 
 ### Docker
 
-Docker Guide is available on the wiki at [Docker Guide](https://github.com/bullseye555/pagermon/wiki/Docker-Guide)
+Docker Guide is available on the wiki at [Docker Guide](https://github.com/pagermon/pagermon/wiki/Docker-Guide)
 
 ### Installing and Running the client
 
 #### Installation
-Installation guide is available on the wiki - [Client Installation](https://github.com/bullseye555/pagermon/wiki/Client-Installation)
+Installation guide is available on the wiki - [Client Installation](https://github.com/pagermon/pagermon/wiki/Client-Installation)
 
 #### Running the CLient
-Installation guide is available on the wiki - [Running Pagermon Client](https://github.com/bullseye555/pagermon/wiki/Running-Pagermon-Client)
+Installation guide is available on the wiki - [Running Pagermon Client](https://github.com/pagermon/pagermon/wiki/Running-Pagermon-Client)
 
 ## PagermonPi - Raspberry Pi Image
 Check out our Raspberry Pi Image for Pi3 & Pi4 which has Pagermon pre-loaded on it.
